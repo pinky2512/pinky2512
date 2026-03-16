@@ -68,22 +68,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-### Emotionally Intelligent AAC System
-Built an agentic GenAI system using **LangChain** and **RAG** to generate emotionally aware and personalized AAC responses using Empathetic Dialogues and GoEmotions datasets.
-
-### Reinforcement Learning Benchmarking Framework
-Developed a scalable benchmarking framework to compare **DQN, DDQN, PPO, A2C, DDPG, and SAC** across multiple environments with large-scale experimentation.
-
-### NYC Taxi Ride Demand Forecasting
-Created an end-to-end **time-series forecasting pipeline** on large-scale trip data, including feature engineering, experiment tracking, and automated retraining workflows.
-
-### Sign-Based Personal Assistant
-Built a real-time **sign language recognition system** using **CNN + LSTM**, enabling responsive and accurate gesture-based interaction.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -100,22 +84,30 @@ Built a real-time **sign language recognition system** using **CNN + LSTM**, ena
 
 ---
 
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/meghana-chowdary-borra" target="blank">
+  <a href="https://linkedin.com/in/meghana-chowdary-borra" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="mailto:b.meghana.chowdary02@gmail.com" target="blank">
+  &nbsp;&nbsp;
+  <a href="mailto:b.meghana.chowdary02@gmail.com" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="40" />
   </a>
-  <a href="https://github.com/pinky2512" target="blank">
+  &nbsp;&nbsp;
+  <a href="https://meghanachowdary.me" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="portfolio" height="30" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/pinky2512" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-## ✨ Fun Line
+## ✨ FUN FACT
 
-> I enjoy turning ideas into intelligent systems that create real-world impact.
+> Turning data chaos into machine intelligence.
