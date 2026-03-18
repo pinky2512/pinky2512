@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Meghana Chowdary</h1>
+<h1 align="center">Hi 👋, I'm Meghana </h1>
 <h3 align="center">Machine Learning Engineer | AI Research Enthusiast | MS in Artificial Intelligence</h3>
 
 <p align="center">
@@ -87,7 +87,7 @@ AI/ML graduate who trains models, tunes hyperparameters, and occasionally questi
 
 ---
 
----
+
 
 ## 🌐 Connect With Me
 
