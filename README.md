@@ -17,12 +17,8 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Pursuing **MS in Artificial Intelligence** at **University at Buffalo**
-- 💡 Passionate about **Machine Learning, Deep Learning, NLP, Reinforcement Learning, and MLOps**
-- 🔬 Interested in building **real-world AI systems** with measurable impact
-- 🤖 Exploring **LLMs, Agentic AI, RAG systems, and scalable ML pipelines**
-- 📊 Enjoy working on **research-driven and production-oriented AI projects**
-- 🌱 Currently growing in **advanced ML research, deployment, and large-scale experimentation**
+AI/ML graduate who trains models, tunes hyperparameters, and occasionally questions life choices during long training runs. I like building practical systems that go beyond notebooks.
+
 
 ---
 
@@ -32,6 +28,13 @@
 - Experimenting with **LLMs, RAG pipelines, and agentic workflows**
 - Working on **time-series forecasting, reinforcement learning, and multimodal AI applications**
 - Improving my knowledge in **AI research and real-world ML deployment**
+
+---
+## ✨ FUN FACT
+
+- Most of my ideas start with “what if I just try this…”
+- Half my learning comes from fixing things I messed up
+- I enjoy exploring new tools even if I don’t fully need them 😅
 
 ---
 
@@ -106,8 +109,6 @@
   </a>
 </p>
 
----
 
-## ✨ FUN FACT
 
-> Turning data chaos into machine intelligence.
+
